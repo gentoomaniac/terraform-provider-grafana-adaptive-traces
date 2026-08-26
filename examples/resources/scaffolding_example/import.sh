@@ -1,0 +1,1 @@
+terraform import grafana_adaptive_traces_policy.test "Policy Name in UI"
